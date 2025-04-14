@@ -3,12 +3,12 @@ mystring = "this is python jupyter"
 print("string : ", mystring)                # this is python jupyter
 print("string length ",len(mystring))            # 22
 
-#indexing
+#Method 1: indexing
 print("first letter of string ",mystring[0])     # t
 print("last letter of string ",mystring[-1])      # r
 
 print("syntax :  [start ,stop, step ]") #syntax
-#slicing
+#Method 2: slicing
 #string print
 print("first 4 letters of string ",mystring[::])  # this is python jupyter
 #start
