@@ -1,8 +1,8 @@
-##command used in jupyter - mac
+command used in jupyter - mac
 ==================================================================================
 Keyboard Shortcuts (Command Mode - Press Esc to enter)
 ==================================================================================
-Shift + Enter              **Run the current cell and move to the next**
+Shift + Enter               **Run the current cell and move to the next**
 
 Ctrl + Enter               **Run the current cell and stay in it**
 
