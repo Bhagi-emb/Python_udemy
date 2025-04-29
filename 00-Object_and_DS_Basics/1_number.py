@@ -12,9 +12,9 @@ print('floor division : ',8//3)                     #floor division :  2
 # Modulus
 print('modulus : ',2%3)                             #modulus :  2
 # Exponentiation  -- power
-print('exponentiation : ',2**3)                     #exponentiation :  8
+print('exponentiation : ',2**3)                     #exponentiation :  8 //power
 # Square root
-print('square root : ',2**0.5)                      #square root :  1.4142135623730951
+print('square root : ',2**0.5)                      #square root :  1.4142135623730951 (2 ** (1/2))
 # Cube root
 print('cube root : ',2**(1/3))                      #cube root :  1.2599210498948732                          
 # Square -- power

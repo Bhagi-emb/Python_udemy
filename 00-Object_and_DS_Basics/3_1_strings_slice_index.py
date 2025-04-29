@@ -7,7 +7,7 @@ print("string length ",len(mystring))            # 22
 print("first letter of string ",mystring[0])     # t
 print("last letter of string ",mystring[-1])      # r
 
-print("syntax :  [start ,stop, step ]") #syntax
+print("syntax :  [start ,stop, step ]") #syntax #######################33
 #Method 2: slicing
 #string print
 print("first 4 letters of string ",mystring[::])  # this is python jupyter

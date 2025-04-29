@@ -1,3 +1,5 @@
+#check path before running the code
+
 #create text file - read and write in python
 # open a file in write mode
 #create text file - read and write in python
@@ -30,3 +32,19 @@ try:
 		print(contents)
 except IOError as e:
 	print(f"An error occurred while reading the file: {e}")
+
+try:
+	with open("text.txt", "w+") as f:
+		f.write('hellogeeello')
+		f.seek(0)
+		data = f.read()
+		print(data)
+
+		f.seek(0, 2)  # Move the file pointer to the end of the file f.seek(0) - data missing
+		f.write('\nmojo jojooo')
+		f.seek(0)
+
+		data = f.read()
+		print(data)
+except IOError as e:
+	print(f"An error occurred while writing the file: {e}")

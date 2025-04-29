@@ -1,3 +1,5 @@
+#check path before running the code
+
 #create text file - read and write in python
 # open a file in write mode and write to it
 file = open("newtest.txt","w")

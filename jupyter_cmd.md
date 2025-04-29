@@ -35,3 +35,9 @@ Magic Commands
 %who                                **List all variables in the workspace**
 
 %%writefile filename.py             **Save cell content as a file**
+==================================================================================
+Code Commands
+==================================================================================
+shift + tab                      **Auto-complete code**
+ctrl + space              **Auto-complete code**
+ctrl + /                        **Comment/uncomment selected lines**
