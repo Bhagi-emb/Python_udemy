@@ -9,7 +9,7 @@ print("last letter of string ",mystring[-1])      # r
 
 print("syntax :  [start ,stop, step ]") #syntax #######################33
 #Method 2: slicing
-#string print
+#string print  [start:stop:step]
 print("first 4 letters of string ",mystring[::])  # this is python jupyter
 #start
 print("first 4 letters of string ",mystring[0:4])  # this
